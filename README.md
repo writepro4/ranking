@@ -1,3 +1,17 @@
-# Movie App 2019
+# WakaRanking⌚
+ Wakatime을 사용한 wakatimeRanking 사이트입니다.</br></br>
+ 
+ 사람마다 주어진 재능,상황,조건은 전부 다르지만
+ 
+ 시간은 모두에게 공평하기에
 
-React JS Fundamentals Course (2019 Update!)
+ 이 사이트를 만들게 됐습니다.
+ 
+>기능 목록 🌱 
+- [ ] 🏆 순위 차트
+- [ ] ⌚ 평균 시간
+- [ ] 🥇 내 순위
+- [ ] 📝 목표 작성 기능
+- [ ] 🤷‍ 방법론
+- [ ] 🎯 시간에 관한 명언
+- [ ] 🖼 상대방 이미지 
